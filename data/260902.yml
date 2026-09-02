@@ -1,0 +1,58 @@
+about:
+  description: 💎 Amber the programming language compiled to Bash/Ksh/Zsh
+  license: LGPL-3.0
+  homepage: https://amber-lang.com
+  head: ee8a703
+  archived: false
+  latestVersion: nightly
+  collectedAt: 2026-09-02T04:26:29Z
+timeline:
+  created: 2022-07-20
+  lastCommit: 2026-08-31
+  lastRelease: 2026-04-30
+popularity:
+  star: 5219
+  watcher: 22
+  fork: 144
+  release: 14
+  contributor: 56
+  pullRequest: 82
+  issue: 445
+language:
+  Rust: 773471
+  Shell: 1895
+  Nix: 1550
+totalLine: 776916
+recent:
+  last30d:
+    since: 2026-08-03
+    release: 0
+    mergedPR: 12
+    openPR: 4
+    closedIssue: 0
+    openIssue: 5
+    commit: 13
+  last90d:
+    since: 2026-06-04
+    release: 0
+    mergedPR: 31
+    openPR: 4
+    closedIssue: 8
+    openIssue: 14
+    commit: 35
+  last180d:
+    since: 2026-03-06
+    release: 2
+    mergedPR: 63
+    openPR: 4
+    closedIssue: 16
+    openIssue: 15
+    commit: 69
+  last360d:
+    since: 2025-09-07
+    release: 4
+    mergedPR: 211
+    openPR: 4
+    closedIssue: 104
+    openIssue: 49
+    commit: 226
