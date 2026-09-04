@@ -7,7 +7,7 @@ about:
   head: ee8a703
   archived: false
   latestVersion: nightly
-  collectedAt: 2026-09-04T19:29:53Z
+  collectedAt: 2026-09-04T21:00:07Z
 timeline:
   created: 2022-07-20
   lastCommit: 2026-08-31
@@ -82,5 +82,48 @@ total:
   openIssue: 93
   commit: 785
 ---
+path: /home/runner/.x-repo/github.com/amber-lang/Amber
+collectedAt: 2026-09-04T21:00:08Z
+loc:
+  Rust:
+    code: 20262
+    comments: 605
+    blanks: 2397
+    files: 188
+  Toml:
+    code: 73
+    comments: 2
+    blanks: 12
+    files: 4
+  Yaml:
+    code: 60
+    comments: 0
+    blanks: 6
+    files: 2
+  Nix:
+    code: 57
+    comments: 0
+    blanks: 2
+    files: 1
+  Sh:
+    code: 44
+    comments: 6
+    blanks: 2
+    files: 7
+  Markdown:
+    code: 0
+    comments: 156
+    blanks: 54
+    files: 4
+  Text:
+    code: 0
+    comments: 11
+    blanks: 0
+    files: 7
+total:
+  code: 20548
+  comments: 1153
+  blanks: 2506
+  files: 213
 ---
 
