@@ -5,18 +5,18 @@ about:
   head: ee8a703
   archived: false
   latestVersion: "nightly"
-  collectedAt: 2026-09-07T05:32:04Z
+  collectedAt: 2026-09-07T18:53:22Z
 timeline:
   created: 2022-07-20
   lastCommit: 2026-08-31
   lastRelease: 2026-04-30
 popularity:
-  star: 5216
+  star: 5218
   watcher: 23
   fork: 144
   release: 14
   contributor: 56
-  pullRequest: 578
+  pullRequest: 579
   issue: 445
 language:
   Rust: 773471
@@ -28,7 +28,7 @@ recent:
     since: 2026-08-08
     release: 0
     mergedPR: 10
-    openPR: 4
+    openPR: 5
     closedIssue: 0
     openIssue: 5
     commit: 7
@@ -36,7 +36,7 @@ recent:
     since: 2026-07-09
     release: 0
     mergedPR: 18
-    openPR: 4
+    openPR: 5
     closedIssue: 3
     openIssue: 7
     commit: 20
@@ -44,7 +44,7 @@ recent:
     since: 2026-06-09
     release: 0
     mergedPR: 28
-    openPR: 4
+    openPR: 5
     closedIssue: 7
     openIssue: 10
     commit: 29
@@ -52,7 +52,7 @@ recent:
     since: 2026-03-11
     release: 2
     mergedPR: 62
-    openPR: 4
+    openPR: 5
     closedIssue: 16
     openIssue: 15
     commit: 66
@@ -60,7 +60,7 @@ recent:
     since: 2025-09-12
     release: 4
     mergedPR: 211
-    openPR: 4
+    openPR: 5
     closedIssue: 104
     openIssue: 49
     commit: 224
@@ -68,20 +68,20 @@ recent:
     since: 2024-09-17
     release: 5
     mergedPR: 301
-    openPR: 4
+    openPR: 5
     closedIssue: 185
     openIssue: 64
     commit: 331
 total:
   release: 14
   mergedPR: 496
-  openPR: 4
+  openPR: 5
   closedIssue: 352
   openIssue: 93
   commit: 785
 ---
 path: /home/runner/.x-repo/github.com/amber-lang/Amber
-collectedAt: 2026-09-07T05:32:05Z
+collectedAt: 2026-09-07T18:53:23Z
 loc:
   Rust:
     code: 20262
@@ -127,7 +127,7 @@ total:
 
 ---
 eget:
-  collectedAt: 2026-09-07T05:32:05+00:00
+  collectedAt: 2026-09-07T18:53:24+00:00
   platform:
     darwin/arm64:
       name:  amber-macos-aarch64.tar.xz
