@@ -4,13 +4,25 @@
 
 💎 Amber the programming language compiled to Bash/Ksh/Zsh
 
-![Amber](https://repo.x-cmd.io/Amber.svg)
+![Amber](https://repo.x-cmd.io/Amber.svg?lang=zh)
 
 ## 安装
 
 ```sh
 x install Amber
 ```
+
+## 代码洞察
+
+合计: **20,781** 行代码（覆盖前 5 种语言、共 **202** 个文件）。
+
+| 语言 | 代码 | 注释 | 空行 | 文件数 |
+|------|-----:|-----:|-----:|------:|
+| Rust | 20,547 | 603 | 2,417 | 188 |
+| Toml | 73 | 2 | 12 | 4 |
+| Yaml | 60 | 0 | 6 | 2 |
+| Nix | 57 | 0 | 2 | 1 |
+| Sh | 44 | 6 | 2 | 7 |
 
 ## 源代码
 
@@ -21,37 +33,43 @@ x install Amber
 ## 发布
 
 - **最新版本**: `nightly` (2026-04-27)
-- **最近提交**: 2026-08-31
+- **最近提交**: 2026-09-10
 - **Release 含资产**: 11 个
-- **发布时间**: 2026-04-27T20:04:06Z
 
 ## 流行度
 
-- **Star**: 5,220 · **Fork**: 144 · **开放 issue**: 445 · **贡献者**: 56
+- **Star**: 5,221 · **Fork**: 145 · **开放 issue**: 446 · **贡献者**: 56
 
 ## 累计统计
 
-- **发布数**: 14 · **已合并 PR**: 496 · **开放 PR**: 5 · **已关闭 issue**: 352 · **开放 issue**: 93 · **提交数**: 785
+- **发布数**: 14 · **已合并 PR**: 497 · **开放 PR**: 5 · **已关闭 issue**: 353 · **开放 issue**: 93 · **提交数**: 786
 
 ## 最近活动
 
 | 时间窗口 | 起始 | 发布 | 已合并 PR | 开放 PR | 已关闭 issue | 开放 issue | 提交 |
 |---|---|---:|---:|---:|---:|---:|---:|
-| 30d | 2026-08-11 | 0 | 6 | 5 | 0 | 4 | 7 |
-| 90d | 2026-06-12 | 0 | 27 | 5 | 7 | 9 | 29 |
-| 360d | 2025-09-15 | 4 | 208 | 5 | 104 | 49 | 224 |
+| 30d | 2026-08-11 | 0 | 7 | 5 | 0 | 5 | 8 |
+| last60d | 2026-07-12 | 0 | 19 | 5 | 2 | 8 | 21 |
+| 90d | 2026-06-12 | 0 | 28 | 5 | 7 | 10 | 30 |
+| last180d | 2026-03-14 | 2 | 63 | 5 | 16 | 16 | 67 |
+| 360d | 2025-09-15 | 4 | 209 | 5 | 105 | 49 | 225 |
+| last720d | 2024-09-20 | 5 | 301 | 5 | 185 | 64 | 329 |
 
-## 代码规模
+## Release 资产
 
-合计: **20,496** 行代码（覆盖前 5 种语言、共 **202** 个文件）。
-
-| 语言 | 代码 | 注释 | 空行 | 文件数 |
-|------|-----:|-----:|-----:|------:|
-| Rust | 20,262 | 605 | 2,397 | 188 |
-| Toml | 73 | 2 | 12 | 4 |
-| Yaml | 60 | 0 | 6 | 2 |
-| Nix | 57 | 0 | 2 | 1 |
-| Sh | 44 | 6 | 2 | 7 |
+| 资产 | 大小 | 目标平台 |
+|------|-----:|----------|
+| [amber-linux-debian-x86_64.deb](https://github.com/amber-lang/Amber/releases/download/0.6.0-alpha/amber-linux-debian-x86_64.deb) | 1.2 MiB | `native/linux/x64` |
+| [amber-linux-gnu-aarch64.tar.xz](https://github.com/amber-lang/Amber/releases/download/0.6.0-alpha/amber-linux-gnu-aarch64.tar.xz) | 999.0 KiB | `native/linux/arm64/glibc` |
+| [amber-linux-gnu-x86_64.tar.xz](https://github.com/amber-lang/Amber/releases/download/0.6.0-alpha/amber-linux-gnu-x86_64.tar.xz) | 1.2 MiB | `native/linux/x64/glibc` |
+| [amber-linux-musl-aarch64.tar.xz](https://github.com/amber-lang/Amber/releases/download/0.6.0-alpha/amber-linux-musl-aarch64.tar.xz) | 1.0 MiB | `native/linux/arm64/musl` |
+| [amber-linux-musl-x86_64.tar.xz](https://github.com/amber-lang/Amber/releases/download/0.6.0-alpha/amber-linux-musl-x86_64.tar.xz) | 1.2 MiB | `native/linux/x64/musl` |
+| [amber-linux-rpm-x86_64.rpm](https://github.com/amber-lang/Amber/releases/download/0.6.0-alpha/amber-linux-rpm-x86_64.rpm) | 1.3 MiB | `native/linux/x64` |
+| [amber-macos-aarch64.tar.xz](https://github.com/amber-lang/Amber/releases/download/0.6.0-alpha/amber-macos-aarch64.tar.xz) | 953.1 KiB | `native/darwin/arm64` |
+| [amber-macos-x86_64.tar.xz](https://github.com/amber-lang/Amber/releases/download/0.6.0-alpha/amber-macos-x86_64.tar.xz) | 1.1 MiB | `native/darwin/x64` |
+| [amber-windows-x86_64.tar.xz](https://github.com/amber-lang/Amber/releases/download/0.6.0-alpha/amber-windows-x86_64.tar.xz) | 1.2 MiB | `native/win/x64` |
+| [install.sh](https://github.com/amber-lang/Amber/releases/download/0.6.0-alpha/install.sh) | 12.6 KiB | `other` |
+| [uninstall.sh](https://github.com/amber-lang/Amber/releases/download/0.6.0-alpha/uninstall.sh) | 7.7 KiB | `other` |
 
 ## 改进这些数据
 
@@ -62,4 +80,4 @@ Amber 的安装元数据由 [x-cmd/install](https://github.com/x-cmd/install) �
 
 本页面的数据（card / loc / scorecard / release）由 [x-cmd-install-action](https://github.com/x-cmd-install/x-cmd-install-action) 自动采集，每日重新生成。**安装行为**（版本选择、平台差异、依赖处理）的改进应提交到上游索引。
 
-_数据快照: `data/card/260910.yml` · 2026-09-10T05:53:34Z._
+_数据快照: `data/card/260910.yml` · 2026-09-10T23:43:58Z._
