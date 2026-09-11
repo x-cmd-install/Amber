@@ -7,7 +7,7 @@ about:
   latestVersion: "nightly"
   latestRelease: "0.6.0-alpha"
   latestPrerelease: "nightly"
-  collectedAt: 2026-09-11T05:38:14Z
+  collectedAt: 2026-09-11T19:17:00Z
 timeline:
   created: 2022-07-20
   lastCommit: 2026-09-10
@@ -15,7 +15,7 @@ timeline:
   lastRelease: 2026-04-27
   lastPrerelease: 2026-04-30
 popularity:
-  star: 5221
+  star: 5222
   watcher: 23
   fork: 145
   release: 14
@@ -85,7 +85,7 @@ total:
   commit: 786
 ---
 path: /home/runner/.x-repo/github.com/amber-lang/Amber
-collectedAt: 2026-09-11T05:38:15Z
+collectedAt: 2026-09-11T19:17:01Z
 loc:
   Rust:
     code: 20547
