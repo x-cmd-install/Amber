@@ -67,7 +67,7 @@
       "state": "uploaded",
       "size": 1235988,
       "digest": "sha256:a212b385ff8a0f6a0482686df9a591cd98c4478d6eea106aa1ee6e44d161ee8f",
-      "download_count": 35,
+      "download_count": 37,
       "created_at": "2026-04-27T20:07:51Z",
       "updated_at": "2026-04-27T20:07:51Z",
       "browser_download_url": "https://github.com/amber-lang/amber/releases/download/0.6.0-alpha/amber-linux-debian-x86_64.deb"
@@ -139,7 +139,7 @@
       "state": "uploaded",
       "size": 1232760,
       "digest": "sha256:578d3d6335aca1bfc902477a1553561990505a8727ecd9b848af20a072867ee4",
-      "download_count": 2214,
+      "download_count": 2219,
       "created_at": "2026-04-27T20:07:49Z",
       "updated_at": "2026-04-27T20:07:49Z",
       "browser_download_url": "https://github.com/amber-lang/amber/releases/download/0.6.0-alpha/amber-linux-gnu-x86_64.tar.xz"
@@ -283,7 +283,7 @@
       "state": "uploaded",
       "size": 975976,
       "digest": "sha256:584f29a4956edabbb57f53a8a5d61be606733105810b173d20fe1844567e85ad",
-      "download_count": 251,
+      "download_count": 253,
       "created_at": "2026-04-27T20:07:46Z",
       "updated_at": "2026-04-27T20:07:46Z",
       "browser_download_url": "https://github.com/amber-lang/amber/releases/download/0.6.0-alpha/amber-macos-aarch64.tar.xz"
@@ -355,7 +355,7 @@
       "state": "uploaded",
       "size": 1227464,
       "digest": "sha256:7f9e1c43e1ddee1106712438dd24adae78d385fe51fbdd5c9fe46a1922fe677e",
-      "download_count": 37,
+      "download_count": 38,
       "created_at": "2026-04-27T20:07:44Z",
       "updated_at": "2026-04-27T20:07:44Z",
       "browser_download_url": "https://github.com/amber-lang/amber/releases/download/0.6.0-alpha/amber-windows-x86_64.tar.xz"
@@ -391,7 +391,7 @@
       "state": "uploaded",
       "size": 12864,
       "digest": "sha256:f9c91b10c1618ac87b7d6ac440e3ad73c63314acb4e507f772c5d348cecac330",
-      "download_count": 646,
+      "download_count": 647,
       "created_at": "2026-04-27T20:07:43Z",
       "updated_at": "2026-04-27T20:07:43Z",
       "browser_download_url": "https://github.com/amber-lang/amber/releases/download/0.6.0-alpha/install.sh"
