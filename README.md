@@ -38,7 +38,7 @@ Total: **20,781** lines of code across **202** files in the top 5 languages.
 
 ## Popularity
 
-- **Stars**: 5,224 · **Forks**: 145 · **Open issues**: 446 · **Contributors**: 56
+- **Stars**: 5,225 · **Forks**: 145 · **Open issues**: 446 · **Contributors**: 56
 
 ## Totals (cumulative)
 
@@ -48,12 +48,12 @@ Total: **20,781** lines of code across **202** files in the top 5 languages.
 
 | Window | Since | Releases | Merged PRs | Open PRs | Closed issues | Open issues | Commits |
 |---|---|---:|---:|---:|---:|---:|---:|
-| 30d | 2026-08-15 | 0 | 6 | 4 | 0 | 5 | 5 |
-| last60d | 2026-07-16 | 0 | 17 | 5 | 1 | 8 | 20 |
-| 90d | 2026-06-16 | 0 | 25 | 5 | 6 | 10 | 28 |
-| last180d | 2026-03-18 | 2 | 60 | 5 | 16 | 16 | 64 |
-| 360d | 2025-09-19 | 4 | 206 | 5 | 103 | 49 | 219 |
-| last720d | 2024-09-24 | 5 | 300 | 5 | 183 | 64 | 326 |
+| 30d | 2026-08-16 | 0 | 6 | 4 | 0 | 5 | 5 |
+| last60d | 2026-07-17 | 0 | 17 | 5 | 1 | 8 | 20 |
+| 90d | 2026-06-17 | 0 | 25 | 5 | 6 | 10 | 28 |
+| last180d | 2026-03-19 | 2 | 60 | 5 | 16 | 16 | 64 |
+| 360d | 2025-09-20 | 4 | 206 | 5 | 102 | 49 | 219 |
+| last720d | 2024-09-25 | 5 | 299 | 5 | 183 | 64 | 326 |
 
 ## Release assets
 
@@ -80,4 +80,4 @@ Install metadata for Amber lives in the [x-cmd/install](https://github.com/x-cmd
 
 The data on this page (card / loc / scorecard / release) is auto-collected by [x-cmd-install-action](https://github.com/x-cmd-install/x-cmd-install-action) and is regenerated daily. Improvements to *install behaviour* (which version gets installed, platform-specific quirks, dependencies) belong upstream in the index.
 
-_Snapshot: `data/card/260914.yml` · 2026-09-14T06:16:58Z._
+_Snapshot: `data/card/260915.yml` · 2026-09-15T06:14:29Z._
