@@ -67,7 +67,7 @@
       "state": "uploaded",
       "size": 1235988,
       "digest": "sha256:a212b385ff8a0f6a0482686df9a591cd98c4478d6eea106aa1ee6e44d161ee8f",
-      "download_count": 37,
+      "download_count": 38,
       "created_at": "2026-04-27T20:07:51Z",
       "updated_at": "2026-04-27T20:07:51Z",
       "browser_download_url": "https://github.com/amber-lang/amber/releases/download/0.6.0-alpha/amber-linux-debian-x86_64.deb"
@@ -139,7 +139,7 @@
       "state": "uploaded",
       "size": 1232760,
       "digest": "sha256:578d3d6335aca1bfc902477a1553561990505a8727ecd9b848af20a072867ee4",
-      "download_count": 2219,
+      "download_count": 2223,
       "created_at": "2026-04-27T20:07:49Z",
       "updated_at": "2026-04-27T20:07:49Z",
       "browser_download_url": "https://github.com/amber-lang/amber/releases/download/0.6.0-alpha/amber-linux-gnu-x86_64.tar.xz"
