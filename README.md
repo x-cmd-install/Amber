@@ -14,11 +14,11 @@ x install Amber
 
 ## Code insight
 
-Total: **20,781** lines of code across **202** files in the top 5 languages.
+Total: **20,796** lines of code across **202** files in the top 5 languages.
 
 | Language | Code | Comments | Blanks | Files |
 |----------|-----:|---------:|-------:|------:|
-| Rust | 20,547 | 603 | 2,417 | 188 |
+| Rust | 20,562 | 603 | 2,420 | 188 |
 | Toml | 73 | 2 | 12 | 4 |
 | Yaml | 60 | 0 | 6 | 2 |
 | Nix | 57 | 0 | 2 | 1 |
@@ -33,27 +33,27 @@ Total: **20,781** lines of code across **202** files in the top 5 languages.
 ## Release
 
 - **Latest**: `nightly` (2026-04-27)
-- **Last commit**: 2026-09-28
+- **Last commit**: 2026-09-29
 - **Assets in release**: 11
 
 ## Popularity
 
-- **Stars**: 5,230 · **Forks**: 147 · **Open issues**: 447 · **Contributors**: 56
+- **Stars**: 5,229 · **Forks**: 147 · **Open issues**: 447 · **Contributors**: 58
 
 ## Totals (cumulative)
 
-- **Releases**: 14 · **Merged PRs**: 501 · **Open PRs**: 6 · **Closed issues**: 353 · **Open issues**: 94 · **Commits**: 790
+- **Releases**: 14 · **Merged PRs**: 503 · **Open PRs**: 4 · **Closed issues**: 355 · **Open issues**: 92 · **Commits**: 792
 
 ## Recent activity
 
 | Window | Since | Releases | Merged PRs | Open PRs | Closed issues | Open issues | Commits |
 |---|---|---:|---:|---:|---:|---:|---:|
-| 30d | 2026-08-30 | 0 | 5 | 3 | 0 | 2 | 5 |
-| last60d | 2026-07-31 | 0 | 18 | 6 | 0 | 7 | 18 |
-| 90d | 2026-07-01 | 0 | 27 | 6 | 4 | 11 | 29 |
-| last180d | 2026-04-02 | 2 | 52 | 6 | 11 | 17 | 60 |
-| 360d | 2025-10-04 | 4 | 186 | 6 | 93 | 48 | 202 |
-| last720d | 2024-10-09 | 5 | 296 | 6 | 181 | 64 | 322 |
+| 30d | 2026-08-31 | 0 | 6 | 1 | 0 | 2 | 7 |
+| last60d | 2026-08-01 | 0 | 20 | 4 | 2 | 5 | 20 |
+| 90d | 2026-07-02 | 0 | 29 | 4 | 6 | 9 | 31 |
+| last180d | 2026-04-03 | 2 | 54 | 4 | 13 | 15 | 62 |
+| 360d | 2025-10-05 | 4 | 188 | 4 | 95 | 46 | 204 |
+| last720d | 2024-10-10 | 5 | 298 | 4 | 182 | 62 | 324 |
 
 ## Release assets
 
@@ -80,4 +80,4 @@ Install metadata for Amber lives in the [x-cmd/install](https://github.com/x-cmd
 
 The data on this page (card / loc / scorecard / release) is auto-collected by [x-cmd-install-action](https://github.com/x-cmd-install/x-cmd-install-action) and is regenerated daily. Improvements to *install behaviour* (which version gets installed, platform-specific quirks, dependencies) belong upstream in the index.
 
-_Snapshot: `data/card/260929.yml` · 2026-09-29T06:42:44Z._
+_Snapshot: `data/card/260930.yml` · 2026-09-30T06:28:58Z._
