@@ -139,7 +139,7 @@
       "state": "uploaded",
       "size": 1232760,
       "digest": "sha256:578d3d6335aca1bfc902477a1553561990505a8727ecd9b848af20a072867ee4",
-      "download_count": 2287,
+      "download_count": 2290,
       "created_at": "2026-04-27T20:07:49Z",
       "updated_at": "2026-04-27T20:07:49Z",
       "browser_download_url": "https://github.com/amber-lang/amber/releases/download/0.6.0-alpha/amber-linux-gnu-x86_64.tar.xz"
@@ -211,7 +211,7 @@
       "state": "uploaded",
       "size": 1279124,
       "digest": "sha256:14062fdc6f1652ed8c1230c24f912e23a78a3bb7e8ae396790019e4f02cbc9f5",
-      "download_count": 144,
+      "download_count": 145,
       "created_at": "2026-04-27T20:07:47Z",
       "updated_at": "2026-04-27T20:07:48Z",
       "browser_download_url": "https://github.com/amber-lang/amber/releases/download/0.6.0-alpha/amber-linux-musl-x86_64.tar.xz"
@@ -283,7 +283,7 @@
       "state": "uploaded",
       "size": 975976,
       "digest": "sha256:584f29a4956edabbb57f53a8a5d61be606733105810b173d20fe1844567e85ad",
-      "download_count": 297,
+      "download_count": 298,
       "created_at": "2026-04-27T20:07:46Z",
       "updated_at": "2026-04-27T20:07:46Z",
       "browser_download_url": "https://github.com/amber-lang/amber/releases/download/0.6.0-alpha/amber-macos-aarch64.tar.xz"
