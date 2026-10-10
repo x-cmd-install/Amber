@@ -139,7 +139,7 @@
       "state": "uploaded",
       "size": 1232760,
       "digest": "sha256:578d3d6335aca1bfc902477a1553561990505a8727ecd9b848af20a072867ee4",
-      "download_count": 2444,
+      "download_count": 2466,
       "created_at": "2026-04-27T20:07:49Z",
       "updated_at": "2026-04-27T20:07:49Z",
       "browser_download_url": "https://github.com/amber-lang/amber/releases/download/0.6.0-alpha/amber-linux-gnu-x86_64.tar.xz"
@@ -211,7 +211,7 @@
       "state": "uploaded",
       "size": 1279124,
       "digest": "sha256:14062fdc6f1652ed8c1230c24f912e23a78a3bb7e8ae396790019e4f02cbc9f5",
-      "download_count": 146,
+      "download_count": 147,
       "created_at": "2026-04-27T20:07:47Z",
       "updated_at": "2026-04-27T20:07:48Z",
       "browser_download_url": "https://github.com/amber-lang/amber/releases/download/0.6.0-alpha/amber-linux-musl-x86_64.tar.xz"
@@ -391,7 +391,7 @@
       "state": "uploaded",
       "size": 12864,
       "digest": "sha256:f9c91b10c1618ac87b7d6ac440e3ad73c63314acb4e507f772c5d348cecac330",
-      "download_count": 707,
+      "download_count": 709,
       "created_at": "2026-04-27T20:07:43Z",
       "updated_at": "2026-04-27T20:07:43Z",
       "browser_download_url": "https://github.com/amber-lang/amber/releases/download/0.6.0-alpha/install.sh"
