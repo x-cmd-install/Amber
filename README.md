@@ -48,12 +48,12 @@ Total: **20,802** lines of code across **202** files in the top 5 languages.
 
 | Window | Since | Releases | Merged PRs | Open PRs | Closed issues | Open issues | Commits |
 |---|---|---:|---:|---:|---:|---:|---:|
-| 30d | 2026-09-17 | 0 | 4 | 0 | 0 | 1 | 6 |
-| last60d | 2026-08-18 | 0 | 12 | 2 | 2 | 4 | 13 |
-| 90d | 2026-07-19 | 0 | 24 | 2 | 4 | 6 | 28 |
-| last180d | 2026-04-20 | 2 | 52 | 2 | 13 | 14 | 61 |
-| 360d | 2025-10-22 | 4 | 186 | 2 | 93 | 45 | 202 |
-| last720d | 2024-10-27 | 5 | 290 | 2 | 175 | 58 | 318 |
+| 30d | 2026-09-18 | 0 | 4 | 0 | 0 | 1 | 5 |
+| last60d | 2026-08-19 | 0 | 10 | 2 | 2 | 4 | 10 |
+| 90d | 2026-07-20 | 0 | 23 | 2 | 3 | 6 | 26 |
+| last180d | 2026-04-21 | 2 | 52 | 2 | 13 | 14 | 57 |
+| 360d | 2025-10-23 | 4 | 186 | 2 | 93 | 45 | 202 |
+| last720d | 2024-10-28 | 5 | 289 | 2 | 174 | 58 | 317 |
 
 ## Release assets
 
@@ -80,4 +80,4 @@ Install metadata for Amber lives in the [x-cmd/install](https://github.com/x-cmd
 
 The data on this page (card / loc / scorecard / release) is auto-collected by [x-cmd-install-action](https://github.com/x-cmd-install/x-cmd-install-action) and is regenerated daily. Improvements to *install behaviour* (which version gets installed, platform-specific quirks, dependencies) belong upstream in the index.
 
-_Snapshot: `data/card/261017.yml` · 2026-10-17T05:06:20Z._
+_Snapshot: `data/card/261018.yml` · 2026-10-18T05:15:05Z._
