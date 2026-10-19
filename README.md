@@ -33,27 +33,27 @@ Total: **20,802** lines of code across **202** files in the top 5 languages.
 ## Release
 
 - **Latest**: `nightly` (2026-04-27)
-- **Last commit**: 2026-10-12
+- **Last commit**: 2026-10-18
 - **Assets in release**: 11
 
 ## Popularity
 
-- **Stars**: 5,238 · **Forks**: 147 · **Open issues**: 447 · **Contributors**: 58
+- **Stars**: 5,239 · **Forks**: 148 · **Open issues**: 447 · **Contributors**: 58
 
 ## Totals (cumulative)
 
-- **Releases**: 14 · **Merged PRs**: 504 · **Open PRs**: 2 · **Closed issues**: 356 · **Open issues**: 91 · **Commits**: 793
+- **Releases**: 14 · **Merged PRs**: 504 · **Open PRs**: 3 · **Closed issues**: 356 · **Open issues**: 91 · **Commits**: 794
 
 ## Recent activity
 
 | Window | Since | Releases | Merged PRs | Open PRs | Closed issues | Open issues | Commits |
 |---|---|---:|---:|---:|---:|---:|---:|
-| 30d | 2026-09-18 | 0 | 4 | 0 | 0 | 1 | 5 |
-| last60d | 2026-08-19 | 0 | 10 | 2 | 2 | 4 | 10 |
-| 90d | 2026-07-20 | 0 | 23 | 2 | 3 | 6 | 26 |
-| last180d | 2026-04-21 | 2 | 52 | 2 | 13 | 14 | 57 |
-| 360d | 2025-10-23 | 4 | 186 | 2 | 93 | 45 | 202 |
-| last720d | 2024-10-28 | 5 | 289 | 2 | 174 | 58 | 317 |
+| 30d | 2026-09-19 | 1 | 4 | 1 | 0 | 1 | 6 |
+| last60d | 2026-08-20 | 1 | 10 | 3 | 2 | 4 | 11 |
+| 90d | 2026-07-21 | 1 | 22 | 3 | 3 | 6 | 27 |
+| last180d | 2026-04-22 | 2 | 51 | 3 | 13 | 14 | 58 |
+| 360d | 2025-10-24 | 4 | 186 | 3 | 93 | 45 | 203 |
+| last720d | 2024-10-29 | 5 | 288 | 3 | 174 | 58 | 316 |
 
 ## Release assets
 
@@ -80,4 +80,4 @@ Install metadata for Amber lives in the [x-cmd/install](https://github.com/x-cmd
 
 The data on this page (card / loc / scorecard / release) is auto-collected by [x-cmd-install-action](https://github.com/x-cmd-install/x-cmd-install-action) and is regenerated daily. Improvements to *install behaviour* (which version gets installed, platform-specific quirks, dependencies) belong upstream in the index.
 
-_Snapshot: `data/card/261018.yml` · 2026-10-18T05:15:05Z._
+_Snapshot: `data/card/261019.yml` · 2026-10-19T05:24:51Z._
