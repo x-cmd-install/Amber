@@ -33,27 +33,27 @@ Total: **20,802** lines of code across **202** files in the top 5 languages.
 ## Release
 
 - **Latest**: `nightly` (2026-04-27)
-- **Last commit**: 2026-10-18
+- **Last commit**: 2026-10-22
 - **Assets in release**: 11
 
 ## Popularity
 
-- **Stars**: 5,239 · **Forks**: 147 · **Open issues**: 447 · **Contributors**: 58
+- **Stars**: 5,238 · **Forks**: 147 · **Open issues**: 447 · **Contributors**: 58
 
 ## Totals (cumulative)
 
-- **Releases**: 14 · **Merged PRs**: 504 · **Open PRs**: 4 · **Closed issues**: 356 · **Open issues**: 91 · **Commits**: 794
+- **Releases**: 14 · **Merged PRs**: 505 · **Open PRs**: 3 · **Closed issues**: 356 · **Open issues**: 91 · **Commits**: 795
 
 ## Recent activity
 
 | Window | Since | Releases | Merged PRs | Open PRs | Closed issues | Open issues | Commits |
 |---|---|---:|---:|---:|---:|---:|---:|
-| 30d | 2026-09-22 | 1 | 3 | 2 | 0 | 1 | 6 |
-| last60d | 2026-08-23 | 1 | 9 | 4 | 0 | 3 | 11 |
-| 90d | 2026-07-24 | 1 | 22 | 4 | 3 | 5 | 27 |
-| last180d | 2026-04-25 | 2 | 51 | 4 | 13 | 14 | 58 |
-| 360d | 2025-10-27 | 4 | 185 | 4 | 92 | 45 | 203 |
-| last720d | 2024-11-01 | 5 | 288 | 4 | 173 | 58 | 316 |
+| 30d | 2026-09-24 | 1 | 4 | 1 | 0 | 1 | 7 |
+| last60d | 2026-08-25 | 1 | 8 | 3 | 0 | 2 | 12 |
+| 90d | 2026-07-26 | 1 | 23 | 3 | 3 | 4 | 28 |
+| last180d | 2026-04-27 | 2 | 51 | 3 | 13 | 14 | 59 |
+| 360d | 2025-10-29 | 4 | 186 | 3 | 92 | 45 | 204 |
+| last720d | 2024-11-03 | 5 | 288 | 3 | 172 | 58 | 317 |
 
 ## Release assets
 
@@ -80,4 +80,4 @@ Install metadata for Amber lives in the [x-cmd/install](https://github.com/x-cmd
 
 The data on this page (card / loc / scorecard / release) is auto-collected by [x-cmd-install-action](https://github.com/x-cmd-install/x-cmd-install-action) and is regenerated daily. Improvements to *install behaviour* (which version gets installed, platform-specific quirks, dependencies) belong upstream in the index.
 
-_Snapshot: `data/card/261022.yml` · 2026-10-22T05:38:09Z._
+_Snapshot: `data/card/261024.yml` · 2026-10-24T05:27:20Z._
