@@ -33,27 +33,27 @@ Total: **20,840** lines of code across **202** files in the top 5 languages.
 ## Release
 
 - **Latest**: `nightly` (2026-04-27)
-- **Last commit**: 2026-10-26
+- **Last commit**: 2026-11-02
 - **Assets in release**: 11
 
 ## Popularity
 
-- **Stars**: 5,244 · **Forks**: 148 · **Open issues**: 449 · **Contributors**: 58
+- **Stars**: 5,243 · **Forks**: 147 · **Open issues**: 449 · **Contributors**: 58
 
 ## Totals (cumulative)
 
-- **Releases**: 14 · **Merged PRs**: 508 · **Open PRs**: 4 · **Closed issues**: 358 · **Open issues**: 91 · **Commits**: 798
+- **Releases**: 14 · **Merged PRs**: 509 · **Open PRs**: 3 · **Closed issues**: 358 · **Open issues**: 91 · **Commits**: 799
 
 ## Recent activity
 
 | Window | Since | Releases | Merged PRs | Open PRs | Closed issues | Open issues | Commits |
 |---|---|---:|---:|---:|---:|---:|---:|
-| 30d | 2026-10-03 | 1 | 3 | 2 | 0 | 2 | 6 |
-| last60d | 2026-09-03 | 1 | 9 | 3 | 1 | 3 | 13 |
-| 90d | 2026-08-04 | 1 | 23 | 4 | 5 | 4 | 22 |
-| last180d | 2026-05-06 | 1 | 51 | 4 | 15 | 14 | 54 |
-| 360d | 2025-11-07 | 4 | 185 | 4 | 94 | 44 | 204 |
-| last720d | 2024-11-12 | 5 | 286 | 4 | 170 | 57 | 314 |
+| 30d | 2026-10-04 | 1 | 4 | 1 | 0 | 2 | 7 |
+| last60d | 2026-09-04 | 1 | 10 | 2 | 1 | 3 | 14 |
+| 90d | 2026-08-05 | 1 | 24 | 3 | 5 | 4 | 23 |
+| last180d | 2026-05-07 | 1 | 52 | 3 | 14 | 14 | 55 |
+| 360d | 2025-11-08 | 4 | 186 | 3 | 94 | 44 | 205 |
+| last720d | 2024-11-13 | 5 | 287 | 3 | 168 | 57 | 315 |
 
 ## Release assets
 
@@ -80,4 +80,4 @@ Install metadata for Amber lives in the [x-cmd/install](https://github.com/x-cmd
 
 The data on this page (card / loc / scorecard / release) is auto-collected by [x-cmd-install-action](https://github.com/x-cmd-install/x-cmd-install-action) and is regenerated daily. Improvements to *install behaviour* (which version gets installed, platform-specific quirks, dependencies) belong upstream in the index.
 
-_Snapshot: `data/card/261102.yml` · 2026-11-02T07:00:26Z._
+_Snapshot: `data/card/261103.yml` · 2026-11-03T07:43:12Z._
